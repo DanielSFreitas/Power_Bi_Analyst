@@ -1,2 +1,2 @@
-# Relat-rio_BI
+# Relatório BI
 Meu primeiro relatório em Power BI
